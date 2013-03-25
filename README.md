@@ -11,4 +11,4 @@ Step 2: Bayes Net {Actually a HMM}
 
 Step 3: Sampling 
         
-        Code is Incomplete
+        Part of code needs some changes
